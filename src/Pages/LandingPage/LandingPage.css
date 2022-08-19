@@ -1,0 +1,28 @@
+.navpage{
+    width: 300px;
+    padding: 150px 30px;
+    background-color: wheat;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+.sec{
+    margin: 0px auto;
+}
+
+.logo{
+    margin-bottom: 100px;
+}
+
+.nav-flex{
+    display: flex;
+    margin-top: 40px;
+}
+
+.nav-flex img{
+    width: 20px;
+    height: 20px;
+    margin-right: 30px;
+    margin-left: 20px;
+}
